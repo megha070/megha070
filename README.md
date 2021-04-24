@@ -19,3 +19,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=megha070" />
   </a>
 </p>
+![image](https://profile-counter.glitch.me/megha070/count.svg)
